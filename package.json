@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "nodejs basics",
+  "main": "00 - npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajvg94/nodejs-basics.git"
+  },
+  "dependencies": {
+    
+  },
+  "author": "ajvg94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajvg94/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/ajvg94/nodejs-basics#readme"
+}
