@@ -34,6 +34,7 @@
     Mongoose            ->  MongoDB                             ->  (https://www.npmjs.com/package/mongoose)
     chalk               ->  Colors console logs                 ->  (https://www.npmjs.com/package/chalk)
     yargs               ->  Command Line argument handler       ->  (https://www.npmjs.com/package/yargs)
+    missionlog          ->  Lightweight logger                  ->  (https://www.npmjs.com/package/missionlog)
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
